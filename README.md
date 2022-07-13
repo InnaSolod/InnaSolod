@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Inna
 
-- 🔭 I’m currently working on **my IT education**
+- 🔭 I’m currently working on **my IT Education**
 - 🌱 I'm currently studying **a Full Stack Developer course**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
