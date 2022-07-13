@@ -8,6 +8,7 @@
 - 📫 How to reach me: **solodinna6@gmail.com**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+**“The ideal of beauty is simplicity and tranquility.” – Johann Wolfgang von Goethe**
 
 ### My stack and tools:
 
