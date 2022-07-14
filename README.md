@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Inna!
+### Hi there, I'm Inna!
 
 - 🔭 I’m currently working on **my IT Education**
 - 🌱 I'm currently studying **a Full Stack Developer course**
